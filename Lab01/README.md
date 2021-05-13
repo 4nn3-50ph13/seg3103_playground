@@ -58,12 +58,6 @@ To run JUnit in WSL 2:
 $ ./bin/test
 ```
 
-Then I run the tests using
-
-```
-java -jar lib/junit-platform-console-standalone-1.7.1.jar --class-path dist --scan-class-path
-```
-
 Here is the output of the tests
 
 ```
@@ -101,7 +95,7 @@ With a screenshot from the terminal
 
 I am running Elixir 11.2 with Erlang 23
 
-```bash
+```
 $ elixir --version
 Erlang/OTP 24 [erts-12.0] [source] [64-bit] [smp:12:12] [ds:12:12:10] [async-threads:1] [jit]
 
@@ -138,10 +132,10 @@ With a screenshot from the terminal
 
 ExUnit is built directly into Elixir
 
-To run the tests
+To run the tests in WSL 2:
 
 ```
-./bin/test
+$ ./bin/test
 ```
 
 Here is the output of the tests
