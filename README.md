@@ -8,4 +8,4 @@
 | TA | Aymen Mhamdi, amham077@uottawa.ca |
 | Team | Anne-Sophie Cusson 300130176<br>Benoit ---- ######### |
 
-* [Lab01](lab01)
+* [Lab01](Lab01)
