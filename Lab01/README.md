@@ -10,7 +10,7 @@
 
 ## Deliverables
 
-* [insert repo link with code]
+* [https://github.com/4nn3-50ph13/seg3103_playground/tree/main/Lab01](https://github.com/4nn3-50ph13/seg3103_playground/tree/main/Lab01)
 * Shared repo above with TA and Professors
 
 ### Java
@@ -45,7 +45,7 @@ Numerator: exit
 
 With a screenshot from the terminal
 
-![Running Java in the console](assets/java_main.png)
+![Running Java in the console](assets/java_main.PNG)
 
 
 ### JUnit
@@ -93,7 +93,7 @@ Test run finished after 86 ms
 
 With a screenshot from the terminal
 
-![Running JUnit in the console](assets/junit_main.png)
+![Running JUnit in the console](assets/junit_main.PNG)
 
 
 
@@ -132,7 +132,7 @@ a
 
 With a screenshot from the terminal
 
-![Running Elixir in the console](assets/elixir_iex.png)
+![Running Elixir in the console](assets/elixir_iex.PNG)
 
 ### ExUnit
 
@@ -158,4 +158,4 @@ Randomized with seed 624948
 
 With a screenshot from the terminal
 
-![Running ExUnit in the console](assets/exunit_main.png)
+![Running ExUnit in the console](assets/exunit_main.PNG)
